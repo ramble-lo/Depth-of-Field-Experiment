@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Depth-of-Field-Experiment/static/css/main.9dad205f.chunk.css",
+    "main.js": "/Depth-of-Field-Experiment/static/js/main.3f90bc72.chunk.js",
+    "main.js.map": "/Depth-of-Field-Experiment/static/js/main.3f90bc72.chunk.js.map",
+    "runtime-main.js": "/Depth-of-Field-Experiment/static/js/runtime-main.bd33ce7c.js",
+    "runtime-main.js.map": "/Depth-of-Field-Experiment/static/js/runtime-main.bd33ce7c.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Depth-of-Field-Experiment/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3ec40dba.chunk.js": "/Depth-of-Field-Experiment/static/js/2.3ec40dba.chunk.js",
+    "static/js/2.3ec40dba.chunk.js.map": "/Depth-of-Field-Experiment/static/js/2.3ec40dba.chunk.js.map",
+    "static/js/3.532aaa35.chunk.js": "/Depth-of-Field-Experiment/static/js/3.532aaa35.chunk.js",
+    "static/js/3.532aaa35.chunk.js.map": "/Depth-of-Field-Experiment/static/js/3.532aaa35.chunk.js.map",
+    "index.html": "/Depth-of-Field-Experiment/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Depth-of-Field-Experiment/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.9dad205f.chunk.css.map": "/Depth-of-Field-Experiment/static/css/main.9dad205f.chunk.css.map",
+    "static/js/2.3ec40dba.chunk.js.LICENSE.txt": "/Depth-of-Field-Experiment/static/js/2.3ec40dba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd33ce7c.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3ec40dba.chunk.js",
+    "static/css/main.9dad205f.chunk.css",
+    "static/js/main.3f90bc72.chunk.js"
+  ]
+}
